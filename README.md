@@ -1,5 +1,5 @@
 # Edu-Champs-Academy
-Edu-Champs Academy is a comprehensive online learning platform built to equip beginners, students, and aspiring tech professionals with the skills and mindset needed to thrive in today's digital world. Edu-Champs bridges the gap between knowledge and practice with a unique blend of self-paced learning, real-world projects, assessments, and certification.
+<b> Edu-Champs Academy <b /> is a comprehensive online learning platform built to equip beginners, students, and aspiring tech professionals with the skills and mindset needed to thrive in today's digital world. Edu-Champs bridges the gap between knowledge and practice with a unique blend of self-paced learning, real-world projects, assessments, and certification.
 
 What sets Edu-Champs apart is its complete learning ecosystem. Users gain access to interactive coding courses that cover beginner to advanced topics, including HTML, CSS, JavaScript, PHP, databases, and more. Each course is broken into digestible lessons with quizzes, hands-on projects, and visual progress tracking, ensuring that learners not only absorb content but also apply it confidently.
 
