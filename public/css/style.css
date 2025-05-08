@@ -1,0 +1,23 @@
+/* CUSTOM SETUP FOR EDU-CHAMPS ACADEMY */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+
+/* Basic Reset */
+*,
+*::before,
+*::after
+{
+    margin: 0;
+    box-sizing: 0;
+    box-sizing: border-box;
+    font-family: "Cormorant Garamond", serif;
+}
+
+/* Body */
+body
+{
+    font-family: "Cormorant Garamond", serif;
+    background: #343a40;
+    color: #f8f9fa;
+}
+

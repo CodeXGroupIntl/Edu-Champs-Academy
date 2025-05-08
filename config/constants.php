@@ -8,11 +8,7 @@
     define('BASE_URL', 'http://localhost/edu-champs/');
 
     // PATHS
-    define('ASSETS_PATH', BASE_URL . 'public/assets/');    
-    define('CSS_PATH', BASE_URL . 'css/');    
-    define('JS_PATH', BASE_URL . 'js/');    
-    define('IMAGES_PATH', BASE_URL . 'images/');    
-    define('UPLOADS_PATH', BASE_URL . '/../public/uploads/');   
+    define('ASSETS', BASE_URL . 'public/');
     
     // EMAIL SETITNGS
     // EMAIL SETTINGS

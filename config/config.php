@@ -16,14 +16,11 @@
     ini_set('display_errors', 1);
     error_reporting(E_ALL);
 
-    // Base URL (for linking or redirects)
-    define('BASE_URL', 'http://localhost/edu-champs');
-
     // Default timezone
     date_default_timezone_set('Africa/Lagos');
 
     // Database connection
-    $conn = new mysli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
+    $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 
     // Check connection
     if ($conn->connect_error) {
